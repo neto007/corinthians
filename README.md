@@ -1,2 +1,1 @@
-# corinthians
-Repositório do Corinthians
+Vai Corinthians
